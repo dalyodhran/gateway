@@ -1,0 +1,28 @@
+# Gradle
+.gradle
+build
+
+# Maven (if applicable)
+target
+
+# IDEs
+.idea
+*.iml
+*.ipr
+*.iws
+.vscode
+*.class
+
+# OS files
+.DS_Store
+
+# Git
+.git
+.gitignore
+
+# Logs
+*.log
+
+# Docker
+Dockerfile
+docker-compose.yml
